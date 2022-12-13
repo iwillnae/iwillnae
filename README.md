@@ -1,14 +1,16 @@
-#Welcome to my Github profile :fa-github-alt: 
-### :fa-user: About me.
+# Welcome to my Github profile.
 
-`nae;My motto is eat, sleep and play, with everything else in between.`<br>Hi everyone, I'm `nae`, a systems engineering student, I like to learn about **#Programming**, **#GameDesign**, **#Japanese Culture** and **#Games**..</br>
+### About me.
+`nae;My motto is eat, sleep and play, with everything else in between.`<br>Hi everyone, I'm `nae`, a systems engineering student, I like to learn about **#Programming**, **#GameDesign** and **#Games**..</br>
 
 ------------
 
 <p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwillnae&show_icons=true&theme=radical&locale=ja)
+  <img src="https://github-readme-stats.vercel.app/api?username=iwillnae&show_icons=true&theme=radical&locale=ja" width="800px">
 </p>
 
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwillnae&layout=compact&theme=radical&locale=ja)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwillnae&theme=radical&locale=ja&layout=compact"
+ width="800px">
 </p>
+
